@@ -6,7 +6,7 @@ import { Energy } from './components/Energy'
 import { Pyfhagoras } from './components/Pyfhagoras'
 import { Volume } from './components/Volume'
 import { Urav } from './components/Urav'
-import { Sum } from './components/sum'
+import { Sum } from './components/Sum'
 import { Water } from './components/Water'
 import { Log } from './components/Log'
 
